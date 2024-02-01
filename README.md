@@ -1,3 +1,3 @@
 This is my ReadMe
 
-- It does hello world
+- ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Unfairerorb76/sem/main.yml?branch=master)
